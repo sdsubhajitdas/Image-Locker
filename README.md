@@ -1,4 +1,4 @@
-# Image Encryptor
+# Image Locker
 A simple python package to encrypt and decrypt images.
 
 ## Getting Started
@@ -6,7 +6,7 @@ You need to have `python3` and `pip3` in your system.
 ## Installing
 - First clone the project.
   ```
-  git clone https://github.com/sdsubhajitdas/Image-Encryptor.git
+  git clone https://github.com/sdsubhajitdas/Image-Locker.git
   ```
 - (Optional) If you like you can use `virtualenv` to create a private environment and then activate it.
 - Installing the required packages.
