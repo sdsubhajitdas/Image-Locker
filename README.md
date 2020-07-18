@@ -65,4 +65,8 @@ You need to have `python3` and `pip3` in your system.
 - Encrypt a folder `python decrypt.py -d <FOLDERNAME>`
 
 
-If the salt file is changed or deleted then the locker won't work so I suggest that create a backup of that file somewhere else.
+##### If the salt file is changed or deleted then the locker won't work so I suggest that create a backup of that file somewhere else.
+##### The dimensions of the images without affecting the aspect ratio are reduced to speed up the process. Change the dimensions [here](image_encryptor/__init__.py)
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
